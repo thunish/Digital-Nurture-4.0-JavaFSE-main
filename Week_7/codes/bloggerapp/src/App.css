@@ -1,0 +1,14 @@
+.App {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.st2, .v1, .mystyle1 {
+  width: 30%;
+  border-right: 2px solid green;
+  padding: 10px;
+}
+
+.mystyle1 {
+  border-right: none;
+}
