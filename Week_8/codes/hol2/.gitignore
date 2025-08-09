@@ -1,0 +1,4 @@
+//here is how we configure to ignore the file when we do not want to push to git
+
+.log
+/log
